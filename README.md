@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neeraj Goyal. As a profession i am an IT Engineer works mainly Java Development.
-I have working with TCS from last 8+ years and handled different projects and responsibilities.
+I am working with TCS from last 8+ years and handled different projects and responsibilities.
 
 Current Roles & Responsibilities
     • Analysis of requirement and provide effective solution approach
